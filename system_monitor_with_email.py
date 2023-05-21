@@ -4,7 +4,6 @@ import time
 import pyttsx3
 import GPUtil
 import psutil
-import wmi
 from termcolor import colored
 import smtplib
 from email.mime.text import MIMEText
@@ -31,6 +30,7 @@ def get_cpu_temperature():
             temp = int(file.read()) / 1000  # Temperature in degrees Celsius
             return temp
     elif platform.system() == "Windows":
+        import wmi
         c = wmi.WMI()
         temperature = c.Win32_PerfFormattedData_Counters_ThermalZoneInformation()[0].Temperature
         return temperature
