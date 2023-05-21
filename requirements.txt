@@ -1,0 +1,5 @@
+pyttsx3
+GPUtil
+psutil
+wmi
+termcolor
