@@ -1,6 +1,8 @@
 # System-Monitoring-and-Voice-Warning-Script
 "Real-Time System Monitoring and Voice Warning Script: Monitor System Metrics, Display Information, and React to Threshold Exceedances"
 
+![Image Description](https://github.com/cy-cus/System-Monitoring-and-Voice-Warning-Script/blob/main/systemmonitor.PNG)
+
 This Python script is designed to provide comprehensive real-time monitoring of your system, displaying important system metrics and generating voice warnings when specific thresholds are exceeded. It is a versatile script that works seamlessly on both Windows and Linux servers, ensuring cross-platform compatibility. By utilizing this script, you can keep a close eye on crucial system parameters, receive immediate alerts when thresholds are surpassed, and take proactive measures to maintain optimal system performance and stability. With its user-friendly interface and adaptable functionality, this script empowers you to effectively monitor your system and respond promptly to any critical events.
 
 ## Features
