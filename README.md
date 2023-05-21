@@ -12,7 +12,7 @@ This Python script is designed to provide comprehensive real-time monitoring of 
 - Supports both Windows and Linux servers.
 
 ## Usage
-1. Clone the repository to your local machinem `git clone https://github.com/cy-cus/System-Monitoring-and-Voice-Warning-Script.git`
+1. Clone the repository to your local machinem `git clone https://github.com/cy-cus/Server-Monitoring-and-Voice-Warning-Script.git`
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Run the script using Python: `python system_monitor.py`.
 4. Enjoy real-time system monitoring and voice warnings.
