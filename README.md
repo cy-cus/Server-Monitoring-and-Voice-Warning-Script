@@ -1,5 +1,5 @@
 # Server-Monitoring-and-Voice-Warning-Script
-"Real-Time System Monitoring and Voice Warning Script: Monitor System Metrics, Display Information, and React to Threshold Exceedances"
+"Real-Time Server Monitoring and Voice Warning Script: Monitor System Metrics, Display Information, and React to Threshold Exceedances"
 
 ![Image Description](https://github.com/cy-cus/System-Monitoring-and-Voice-Warning-Script/blob/main/systemmonitor.PNG)
 
